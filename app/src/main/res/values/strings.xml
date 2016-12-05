@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CustomAdapterTest</string>
+
+    <string-array name="placeName">
+        <item>Place 1</item>
+        <item>Place 2</item>
+        <item>Place 3</item>
+        <item>Place 4</item>
+        <item>Place 5</item>
+        <item>Place 6</item>
+        <item>Place 7</item>
+        <item>Place 8</item>
+        <item>Place 9</item>
+        <item>Place 10</item>
+    </string-array>
+
+    <string-array name="placeRating">
+        <item>3.0</item>
+        <item>4.0</item>
+        <item>3.5</item>
+        <item>3.0</item>
+        <item>4.5</item>
+        <item>3.5</item>
+        <item>3.0</item>
+        <item>4.0</item>
+        <item>3.5</item>
+        <item>3.0</item>
+
+    </string-array>
+</resources>
